@@ -1,0 +1,104 @@
+
+body {margin:0px;
+margin-left: 15%;
+margin-right: 15%;
+}
+
+header{
+margin-bottom:  70px;
+margin-top: 30px;
+}
+main {margin: 20px;}
+
+
+#contact {float: right;}
+
+#logo{display: inline-block;}
+#logo-text  {
+    float: right;
+    
+}
+
+#delicious{
+margin: 0px;
+
+}
+
+p{
+margin: 0px;
+}
+
+#logo-img {margin-top: 5px;}
+#contact {margin-top: 30px;}
+#pin {margin-right: 10px;}
+
+#ch-pizza {margin-bottom: 0px;}
+#print-icon {
+    float: right;
+    margin-bottom: 15px;
+}
+#hr1 {
+    height: 10px;
+    color: rgb(105, 105, 105);
+    color: color;
+    background-image: linear-gradient(-45deg,
+      transparent,
+      transparent 25%,
+      currentColor 25%,
+      currentColor 50%,
+      transparent 50%,
+      transparent 75%,
+      currentColor 75%);
+    background-size: 6px 6px;
+    width: 100%;
+    margin-top: 0px;
+
+
+}
+
+#img-part {margin-top: 80px;}
+#pr {float:right; color: gray; margin-bottom: 20px;}
+#text {color:rgb(73, 69, 69); padding-top: 20px;}
+
+#recipe1 {float: left; padding-right: 100px;}
+#recipe2 {padding-left: 50px;}
+#ingredients {
+    margin-top: 50px;margin-bottom: 130px;
+    background-image: url('../img/list-bg.png');
+    padding: 80px;
+}
+
+
+#hr2 {
+    height: 10px;
+    color: rgb(105, 105, 105);
+    color: color;
+    background-image: linear-gradient(-45deg,
+      transparent,
+      transparent 25%,
+      currentColor 25%,
+      currentColor 50%,
+      transparent 50%,
+      transparent 75%,
+      currentColor 75%);
+    background-size: 6px 6px;
+    width: 100%;
+}
+
+#img {float: left; margin-right: 10px;}
+h3 {margin-bottom:0px ; color: rgb(85, 79, 79);}
+#bio {color: rgb(85, 79, 79);}
+button {float: right; 
+    background-color: rgb(167, 103, 61);
+    color: white;
+    height: 50px;
+    width: 150px;
+
+}
+
+#small-logo {margin-left: 440px;}
+
+
+#owner {margin-bottom: 120px;}
+#hr3{margin: 0px;}
+#footer {text-align: center; color: gray;}
