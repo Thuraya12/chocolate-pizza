@@ -56,15 +56,16 @@ margin: 0px;
 
 }
 
-#img-part {margin-top: 80px;}
+#img-part {margin-top: 80px; }
 #pr {float:right; color: gray; margin-bottom: 20px;}
+#main-img {width: 100%;}
 #text {color:rgb(73, 69, 69); padding-top: 20px;}
 
 #recipe1 {float: left; padding-right: 100px;}
 #recipe2 {padding-left: 50px;}
 #ingredients {
     margin-top: 50px;margin-bottom: 130px;
-    background-image: url('../img/list-bg.png');
+    background-image: url('img/list-bg.png');
     padding: 80px;
 }
 
